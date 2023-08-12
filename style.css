@@ -86,3 +86,13 @@
   color: whitesmoke;
   background-color: var(--bg-optional);
 }
+
+.btn a {
+  width: 100px;
+  background-color: tan;
+  text-decoration: none;
+}
+
+.btn:hover a:hover {
+  color: whitesmoke;
+}
